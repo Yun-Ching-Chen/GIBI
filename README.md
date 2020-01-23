@@ -12,6 +12,5 @@ This model won the PGP (Personal Genome Project) challenge in CAGI (Critical Ass
 
 In the paper, we demonstrate the ability of the model by predicting 146 phenotypes for 130 individuals using their WGS data. Phenotype information and WGS data were downloaded from PGP website: https://www.personalgenomes.org/us
 
-Figure 1 in the paper shows 38 best predicted phenotypes with AUC (Area Under ROC Curve) > 0.7:
+Figure 1 in the paper shows 38 best predicted phenotypes with AUC (Area Under ROC Curve) > 0.7: https://github.com/Yun-Ching-Chen/GIBI/blob/master/images/Figure1.pdf
 
-![Image of Model Prediction for 38 Phenotypes](https://github.com/Yun-Ching-Chen/GIBI/blob/master/images/Figure1.pdf)
