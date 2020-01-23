@@ -1,4 +1,4 @@
-# GPP (Genotype-to-Phenotype Prediction)
+# GIBI (Genome Interpretation by Bayesian Inference)
 
 Bayesian Network Model Predicting Personal Phenotypes using Genome-Sequencing Data
 
