@@ -14,5 +14,4 @@ In the paper, we demonstrate the ability of the model by predicting 146 phenotyp
 
 Figure 1 in the paper shows 38 best predicted phenotypes with AUC (Area Under ROC Curve) > 0.7:
 
-![Image of Model Prediction for 38 Phenotypes]
-(https://github.com/Yun-Ching-Chen/GIBI/blob/master/images/Figure1.pdf)
+![Image of Model Prediction for 38 Phenotypes](https://github.com/Yun-Ching-Chen/GIBI/blob/master/images/Figure1.pdf)
