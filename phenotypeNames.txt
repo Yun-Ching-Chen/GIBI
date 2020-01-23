@@ -1,0 +1,250 @@
+Stomach cancer	stomach_cancer
+Colon cancer	colon_cancer
+Rectal cancer	rectal_cancer
+Colon polyps	colon_polyps
+Pancreatic cancer	pancreatic_cancer
+Lung cancer	lung_cancer
+Melanoma	melanoma
+Non-melanoma skin cancer	non-melanoma_skin_cancer
+Lipoma	lipoma
+Breast cancer	breast_cancer
+Breast fibroadenoma	breast_fibroadenoma
+Cervical cancer	cervical_cancer
+Endometrial cancer	endometrial_cancer
+Uterine fibroids	uterine_fibroids
+Ovarian cancer	ovarian_cancer
+Prostate cancer	prostate_cancer
+Bladder cancer	bladder_cancer
+Kidney cancer	kidney_cancer
+Thyroid cancer	thyroid_cancer
+Non-Hodgkin lymphoma	non-hodgkin_lymphoma
+Leukemia	leukemia
+Polycythemia vera	polycythemia_vera
+Essential thrombocythemia	essential_thrombocythemia
+Neurofibromatosis	neurofibromatosis
+Brain cancer	brain_cancer
+Thyroid nodule(s)	thyroid_nodule
+Graves' disease	graves_disease
+Hypothyroidism	hypothyroidism
+Hashimoto's thyroiditis	hashimotos_thyroiditis
+Diabetes mellitus; type 1	diabetes_mellitus_type_1
+Diabetes mellitus; type 2	diabetes_mellitus_type_2
+Primary hyperparathyroidism	primary_hyperparathyroidism
+Growth hormone deficiency	growth_hormone_deficiency
+Polycystic ovary syndrome (PCOS)	polycystic_ovary_syndrome
+Lactose intolerance	lactose_intolerance
+High cholesterol (hypercholesterolemia)	high_cholesterol
+High triglycerides (hypertriglyceridemia)	high_triglycerides
+Alpha 1-antitrypsin deficiency	alpha_1-antitrypsin_deficiency
+Gout	gout
+Hemochromatosis	hemochromatosis
+Cystic fibrosis	cystic_fibrosis
+Porphyria	porphyria
+Gilbert syndrome	gilbert_syndrome
+Iron deficiency anemia	iron_deficiency_anemia
+Pernicious anemia (a.k.a. Addison-Biermer anemia)	pernicious_anemia
+Folate deficiency anemia	folate_deficiency_anemia
+Hereditary spherocytosis	hereditary_spherocytosis
+G6PD deficiency	g6pd_deficiency
+Sickle cell trait (carrier)	sickle_cell_trait
+Sickle cell anemia	sickle_cell_anemia
+Autoimmune hemolytic anemia	autoimmune_hemolytic_anemia
+Hemophilia	hemophilia
+Von Willebrand disease	von_willebrand_disease
+Idiopathic thrombocytopenic purpura (ITP)	idiopathic_thrombocytopenic_purpura
+Hereditary thrombophilia (includes Factor V Leiden and Prothrombin G20210A)	hereditary_thrombophilia
+Other thrombophilia (includes antiphospholipid syndrome)	other_thrombophilia
+Recurrent Sleep Paralysis	recurrent_sleep_paralysis
+Parkinson's Disease	parkinsons_disease
+Essential tremor	essential_tremor
+Huntington's Disease	huntingtons_disease
+Restless Legs Syndrome	restless_legs_syndrome
+Spinal muscular atrophy	spinal_muscular_atrophy
+Amyotrophic lateral sclerosis (ALS)	amyotrophic_lateral_sclerosis
+Cluster headaches	cluster_headaches
+Chronic tension headaches (15+ days per month; at least 6 months)	chronic_tension_headaches
+Multiple sclerosis (MS)	multiple_sclerosis
+Cerebral palsy	cerebral_palsy
+Epilepsy	epilepsy
+Migraine with aura	migraine_with_aura
+Migraine without aura	migraine_without_aura
+Narcolepsy	narcolepsy
+Arnold-Chiari malformation	arnold-chiari_malformation
+Trigeminal neuralgia	trigeminal_neuralgia
+Bell's palsy	bells_palsy
+Carpal tunnel syndrome	carpal_tunnel_syndrome
+Hereditary motor and sensory neuropathy (includes Charcot-Marie-Tooth disease and HNPP)	hereditary_motor_and_sensory_neuropathy
+Other peripheral neuropathy	other_peripheral_neuropathy
+Muscular dystrophy	muscular_dystrophy
+Retinal detachment	retinal_detachment
+Diabetic retinopathy	diabetic_retinopathy
+Hypertensive retinopathy	hypertensive_retinopathy
+Central serous retinopathy	central_serous_retinopathy
+Age-related macular degeneration	age-related_macular_degeneration
+Retinitis pigmentosa	retinitis_pigmentosa
+Glaucoma	glaucoma
+Infantile; juvenile; and presenile cataract	infantile_juvenile_and_presenile_cataract
+Age-related cataract	age-related_cataract
+Traumatic cataract	traumatic_cataract
+Hyperopia (Farsightedness)	hyperopia
+Myopia (Nearsightedness)	myopia
+Astigmatism	astigmatism
+Presbyopia	presbyopia
+Color blindness	color_blindness
+Keratoconus	keratoconus
+Dry eye syndrome	dry_eye_syndrome
+Strabismus	strabismus
+Floaters	floaters
+Congenital nystagmus	congenital_nystagmus
+Meniere's disease	menieres_disease
+Otosclerosis	otosclerosis
+Age-related hearing loss	age-related_hearing_loss
+Tinnitus	tinnitus
+Sensorineural hearing loss or congenital deafness	sensorineural_hearing_loss_or_congenital_deafness
+Hypertension	hypertension
+Myocardial infarction (heart attack)	myocardial_infarction
+Angina	angina
+Pulmonary embolism	pulmonary_embolism
+Mitral valve prolapse	mitral_valve_prolapse
+Hypertrophic cardiomyopathy	hypertrophic_cardiomyopathy
+Dilated cardiomyopathy	dilated_cardiomyopathy
+Restrictive cardiomyopathy	restrictive_cardiomyopathy
+Other cardiomyopathy (includes ARVD)	other_cardiomyopathy
+Bundle branch block	bundle_branch_block
+Wolff-Parkinson-White (WPW) Syndrome	wolff-parkinson-white_wpw_syndrome
+Long QT Syndrome	long_qt_syndrome
+Heart block	heart_block
+Atrial fibrillation	atrial_fibrillation
+Premature ventricular contractions	premature_ventricular_contractions
+Sick sinus syndrome (includes tachy-brady syndrome)	sick_sinus_syndrome
+Cardiac arrhythmia	cardiac_arrhythmia
+Congestive heart failure	congestive_heart_failure
+Stroke	stroke
+Aortic aneurysm	aortic_aneurysm
+Other aneurysm	other_aneurysm
+Raynaud's phenomenon	raynauds_phenomenon
+Kawasaki disease	kawasaki_disease
+Hereditary hemorrhagic telangiectasia (also known as Osler-Weber-Rendu syndrome)	hereditary_hemorrhagic_telangiectasia
+Deep vein thrombosis (DVT)	deep_vein_thrombosis
+Varicose veins	varicose_veins
+Hemorrhoids	hemorrhoids
+Varicocele	varicocele
+Deviated septum	deviated_septum
+Nasal polyps	nasal_polyps
+Chronic sinusitis	chronic_sinusitis
+Chronic/recurrent tonsillitis	chronic_recurrent_tonsillitis
+Allergic rhinitis (includes hay fever)	allergic_rhinitis
+Chronic bronchitis	chronic_bronchitis
+Emphysema	emphysema
+Asthma	asthma
+Chronic Obstructive Pulmonary Disease (COPD)	chronic_obstructive_pulmonary_disease
+Impacted tooth	impacted_tooth
+Dental cavities	dental_cavities
+Gingivitis	gingivitis
+Temporomandibular joint (TMJ) disorder	temporomandibular_joint_tmj_disorder
+Canker sores (oral ulcers)	canker_sores
+Geographic tongue	geographic_tongue
+Fissured tongue	fissured_tongue
+Gastroesophageal Reflux Disease (GERD)	gastroesophageal_reflux_disease
+Barrett's esophagus	barretts_esophagus
+Peptic ulcer (stomach or duodenum)	peptic_ulcer
+Appendicitis	appendicitis
+Inguinal hernia	inguinal_hernia
+Hiatal hernia	hiatal_hernia
+Crohn's disease	crohns_disease
+Ulcerative colitis	ulcerative_colitis
+Diverticulosis	diverticulosis
+Irritable bowel syndrome (IBS)	irritable_bowel_syndrome
+Rectal prolapse	rectal_prolapse
+Acute liver failure	acute_liver_failure
+Chronic liver disease and cirrhosis	chronic_liver_disease_and_cirrhosis
+Nonalcoholic fatty liver disease (NAFLD)	nonalcoholic_fatty_liver_disease
+Gallstones	gallstones
+Celiac disease	celiac_disease
+Kidney stone(s)	kidney_stone
+Acute kidney failure	acute_kidney_failure
+Chronic kidney failure	chronic_kidney_failure
+Urinary tract infection (UTI)	urinary_tract_infection
+Urethral diverticulum	urethral_diverticulum
+Benign prostatic hypertrophy (BPH)	benign_prostatic_hypertrophy
+Male infertility	male_infertility
+Peyronie's disease	peyronies_disease
+Spermatocele	spermatocele
+Fibrocystic breast disease	fibrocystic_breast_disease
+Bartholin's cyst	bartholins_cyst
+Endometriosis	endometriosis
+Uterine prolapse	uterine_prolapse
+Ovarian cysts	ovarian_cysts
+Female infertility	female_infertility
+Pilonidal cyst	pilonidal_cyst
+Dandruff	dandruff
+Eczema	eczema
+Allergic contact dermatitis	allergic_contact_dermatitis
+Rosacea	rosacea
+Psoriasis	psoriasis
+Lichen planus	lichen_planus
+Keloids	keloids
+Skin tags	skin_tags
+Hair loss (includes female and male pattern baldness)	hair_loss
+Alopecia areata	alopecia_areata
+Hyperhidrosis (excessive sweating)	hyperhidrosis
+Hidradenitis suppurativa	hidradenitis_suppurativa
+Acne	acne
+Dermatographia	dermatographia
+Cafe au lait spots	cafe_au_lait_spots
+Systemic lupus erythematosus	systemic_lupus_erythematosus
+Sjogren's syndrome (Sicca syndrome)	sjogrens_syndrome
+Rheumatoid arthritis	rheumatoid_arthritis
+Osteoarthritis	osteoarthritis
+Chondromalacia patella (CMP)	chondromalacia_patella
+Spinal stenosis	spinal_stenosis
+Sciatica	sciatica
+Frozen shoulder	frozen_shoulder
+Rotator cuff tear	rotator_cuff_tear
+Tennis elbow	tennis_elbow
+Achilles tendinitis	achilles_tendinitis
+Bone spurs	bone_spurs
+Trigger finger	trigger_finger
+Bunions	bunions
+Dupuytren's contracture	dupuytrens_contracture
+Plantar fasciitis	plantar_fasciitis
+Fibromyalgia	fibromyalgia
+Scheuermann's kyphosis	scheuermanns_kyphosis
+Osgood-Schlatter disease	osgood-schlatter_disease
+Osteoporosis	osteoporosis
+Flatfeet (fallen arches)	flatfeet
+Postural kyphosis	postural_kyphosis
+Scoliosis	scoliosis
+Spina bifida	spina_bifida
+Congenital ocular coloboma	congenital_ocular_coloboma
+Congenital heart defect	congenital_heart_defect
+Cleft palate	cleft_palate
+Cleft uvula	cleft_uvula
+Cleft lip	cleft_lip
+Tongue tie (ankyloglossia)	tongue_tie
+Bifid tongue (cleft tongue)	bifid_tongue
+Infantile pyloric stenosis	infantile_pyloric_stenosis
+Hirschsprung's disease	hirschsprungs_disease
+Hypospadias	hypospadias
+Renal agenesis (missing kidney)	renal_agenesis
+Polycystic kidney disease	polycystic_kidney_disease
+Congenital hydronephrosis	congenital_hydronephrosis
+Developmental dysplasia of the hip	developmental_dysplasia_of_the_hip
+Congenital clubfoot (equinovarus)	congenital_clubfoot
+Polydactyly	polydactyly
+Syndactyly (webbing of digits)	syndactyly
+Ehlers-Danlos syndrome	ehlers-danlos_syndrome
+Ichthyosis vulgaris	ichthyosis_vulgaris
+Single transverse palmar crease (simian crease)	single_transverse_palmar_crease
+Marfan syndrome	marfan_syndrome
+ethnicity-EA	ethnicity-EA
+ethnicity-AA	ethnicity-AA
+ethnicity-HL	ethnicity-HL
+ethnicity-NIAS	ethnicity-NIAS
+ethnicity-NH	ethnicity-NH
+ethnicity-AS	ethnicity-AS
+bloodGroup_A	bloodGroup_A
+bloodGroup_B	bloodGroup_B
+bloodGroup_AB	bloodGroup_AB
+bloodGroup_O	bloodGroup_O
+chrY	chrY
